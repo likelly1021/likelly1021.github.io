@@ -46,6 +46,21 @@
       </tags>
   </entry>
   <entry>
+    <title>如果每个青春都想诗人故事里安常处顺（徐橘子）</title>
+    <url>/2015/12/10/1210/</url>
+    <content><![CDATA[<p><a href="http://qiniuuwmp3.changba.com/627808322.mp3" target="_blank" rel="noopener">http://qiniuuwmp3.changba.com/627808322.mp3</a></p>
+<p>我又遇见你 坐上清晨回家的列车<br>提着丰收的悲伤和落魄的生活</p>
+<a id="more"></a>
+
+<p>我又遇见你 手捧孤单在大雪的夜晚<br>转身端起明天的酒杯 步履蹒跚</p>
+<p>我有遇见你 在郑州种一棵太阳<br>带着炙热的倔强 年少疯狂<br>我又遇见你 在火焰中独自徘徊<br>烧红了双眼 病入膏肓</p>
+<p>如果明天的生活还是这样平淡无常<br>我会用双手撕裂人心向背的谎言<br>如果每一个青春都像诗人故事里安常处顺<br>我宁肯抛弃所有 浪迹于生</p>
+]]></content>
+      <tags>
+        <tag>长恨人心不如水</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>溺水的睫毛</title>
     <url>/2016/01/07/160107/</url>
     <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=27896611&auto=0&height=66"></iframe>
@@ -62,21 +77,6 @@
 ]]></content>
       <tags>
         <tag>情愿一尾鱼，消失寂寞海</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如果每个青春都想诗人故事里安常处顺（徐橘子）</title>
-    <url>/2015/12/10/1210/</url>
-    <content><![CDATA[<p><a href="http://qiniuuwmp3.changba.com/627808322.mp3" target="_blank" rel="noopener">http://qiniuuwmp3.changba.com/627808322.mp3</a></p>
-<p>我又遇见你 坐上清晨回家的列车<br>提着丰收的悲伤和落魄的生活</p>
-<a id="more"></a>
-
-<p>我又遇见你 手捧孤单在大雪的夜晚<br>转身端起明天的酒杯 步履蹒跚</p>
-<p>我有遇见你 在郑州种一棵太阳<br>带着炙热的倔强 年少疯狂<br>我又遇见你 在火焰中独自徘徊<br>烧红了双眼 病入膏肓</p>
-<p>如果明天的生活还是这样平淡无常<br>我会用双手撕裂人心向背的谎言<br>如果每一个青春都像诗人故事里安常处顺<br>我宁肯抛弃所有 浪迹于生</p>
-]]></content>
-      <tags>
-        <tag>长恨人心不如水</tag>
       </tags>
   </entry>
   <entry>
@@ -124,6 +124,20 @@
       </tags>
   </entry>
   <entry>
+    <title>LaTex的一些小知识</title>
+    <url>/2017/03/24/LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>需要先了解一下什么是LaTex，latex吧等一些社区，可以获取一些简单的关于LaTex的消息，另外这里还有一份LaTex简单的入门，可以先大概看看第一章基本知识了解一下<a href="https://zhidao.baidu.com/share/14ad2e201ac1c92a8d3c5fb92b2d661e.html" target="_blank" rel="noopener">一份不太简短的LATEX介绍</a>；</p>
+<a id="more"></a> 
+<h2 id="其次"><a href="#其次" class="headerlink" title="其次"></a>其次</h2><p>LaTex有许多发行版，包括CTex、TexLive等，这里推荐开源且更加全面的TeXLive <a href="http://www.latexstudio.net/archives/6544" target="_blank" rel="noopener">(TeXLive 2016发行版的下载)</a> ，网页中的链接都可以下载，不过推荐通过ctan的镜像站由迅雷下载（如下图），整个套装接近3G，校内网好时有几M的速度下载也比较快； 安装过程可以参考：<a href="https://zhuanlan.zhihu.com/p/19779481?columnSlug=LaTeX" target="_blank" rel="noopener">TeX Live 2014安装引导流程</a>以及<a href="http://www.linuxidc.com/Linux/2016-08/133913.htm" target="_blank" rel="noopener">Linux 系统下原版 TeX Live 2016 的安装与配置</a></p>
+<p><img src="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/01.png" alt=""></p>
+<p><img src="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/02.png" alt="">    </p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>TeXLive只是LaTex排版系统的编译部分，LaTex支持多种编辑器来编辑，包括TeXworks、TexStudio、Texmaker等，这里并不推荐与ctex整合的winedit（实为非开源收费软件破解），作为新手，推荐使用<a href="http://www.xm1math.net/texmaker/" target="_blank" rel="noopener">Texmaker</a>，界面友好，直观简单，熟悉之后推荐转为<a href="http://texstudio.sourceforge.net/" target="_blank" rel="noopener">TeXstudio</a> …<br>另外，LaTex也有一些在线编辑器，好处是只要有网就可以编辑，并且同步不会丢失，在线模板也比较多，这里有两个推荐的在线LaTex编辑网站：TeXIDE <a href="https://www.texide.com/" target="_blank" rel="noopener">(中文)</a>、ShareLaTex<a href="https://www.sharelatex.com/" target="_blank" rel="noopener">(英文)</a><br>另附：<br>本文原作者谭校长博客<a href="www.regulus.online">主页</a><br>上一届赵大神学长搭的资源分享站-[哈工大高能物理导航] (<a href="http://hithep.science/" target="_blank" rel="noopener">http://hithep.science/</a>)</p>
+]]></content>
+      <tags>
+        <tag>这可是纯纯的学术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一些琐事</title>
     <url>/2017/07/14/dairy/</url>
     <content><![CDATA[<p>感觉自己都有大半年没怎么写东西了，这半年经历了不少事情，这篇算是记载一些琐事的杂文。</p>
@@ -142,14 +156,21 @@
       </tags>
   </entry>
   <entry>
-    <title>LaTex的一些小知识</title>
-    <url>/2017/03/24/LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/</url>
-    <content><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>需要先了解一下什么是LaTex，latex吧等一些社区，可以获取一些简单的关于LaTex的消息，另外这里还有一份LaTex简单的入门，可以先大概看看第一章基本知识了解一下<a href="https://zhidao.baidu.com/share/14ad2e201ac1c92a8d3c5fb92b2d661e.html" target="_blank" rel="noopener">一份不太简短的LATEX介绍</a>；</p>
-<a id="more"></a> 
-<h2 id="其次"><a href="#其次" class="headerlink" title="其次"></a>其次</h2><p>LaTex有许多发行版，包括CTex、TexLive等，这里推荐开源且更加全面的TeXLive <a href="http://www.latexstudio.net/archives/6544" target="_blank" rel="noopener">(TeXLive 2016发行版的下载)</a> ，网页中的链接都可以下载，不过推荐通过ctan的镜像站由迅雷下载（如下图），整个套装接近3G，校内网好时有几M的速度下载也比较快； 安装过程可以参考：<a href="https://zhuanlan.zhihu.com/p/19779481?columnSlug=LaTeX" target="_blank" rel="noopener">TeX Live 2014安装引导流程</a>以及<a href="http://www.linuxidc.com/Linux/2016-08/133913.htm" target="_blank" rel="noopener">Linux 系统下原版 TeX Live 2016 的安装与配置</a></p>
-<p><img src="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/01.png" alt=""></p>
-<p><img src="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/02.png" alt="">    </p>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>TeXLive只是LaTex排版系统的编译部分，LaTex支持多种编辑器来编辑，包括TeXworks、TexStudio、Texmaker等，这里并不推荐与ctex整合的winedit（实为非开源收费软件破解），作为新手，推荐使用<a href="http://www.xm1math.net/texmaker/" target="_blank" rel="noopener">Texmaker</a>，界面友好，直观简单，熟悉之后推荐转为<a href="http://texstudio.sourceforge.net/" target="_blank" rel="noopener">TeXstudio</a> …<br>另外，LaTex也有一些在线编辑器，好处是只要有网就可以编辑，并且同步不会丢失，在线模板也比较多，这里有两个推荐的在线LaTex编辑网站：TeXIDE <a href="https://www.texide.com/" target="_blank" rel="noopener">(中文)</a>、ShareLaTex<a href="https://www.sharelatex.com/" target="_blank" rel="noopener">(英文)</a><br>另附：<br>本文原作者谭校长博客<a href="www.regulus.online">主页</a><br>上一届赵大神学长搭的资源分享站-[哈工大高能物理导航] (<a href="http://hithep.science/" target="_blank" rel="noopener">http://hithep.science/</a>)</p>
+    <title>github绑定域名</title>
+    <url>/2017/01/12/github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
+    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1704213&auto=0&height=66"></iframe>
+### 独立域名
+如果没有自己独立的域名的话，我们的博客都是使用github分配的二级域名likelly.github.io来访问的， 所以要是自己设置个域名，是多么cool的事！
+那。。。就去购买自己喜欢的域名然后绑定吧！
+<a id="more"></a>
+#### 购买域名
+去卖域名的网站去买一个域名，我是在万网买的域名，如图所示：
+![](github绑定域名/01.png)
+找到自己喜欢的域名，购买就好了,likelly.xyz就是被我注册啦啦啦。
+
+<h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>有了自己的域名之后，likelly.github.io替换成likelly.xyz，只要设置下解析即可，进入万网的云解析页面，添加如下解析：<br><img src="github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/02.png" alt=""><br>说明：<strong>192.30.252.154</strong>和<strong>192.30.252.153</strong>是github服务器对应的ip地址，这步一定要设置，否则访问不了。</p>
+<h4 id="添加CNAME"><a href="#添加CNAME" class="headerlink" title="添加CNAME"></a>添加CNAME</h4><p>然后回到博客项目根目录，在根目录<strong>source/</strong>下新建一个名为CNAME（注意：一定要大写）的文件，里面的内容写入<a href="http://www.likelly.xyz即可。" target="_blank" rel="noopener">www.likelly.xyz即可。</a></p>
+<p>然后在浏览器输入likelly.xyz，即可代替之前的github.io的域名，访问到自己的博客页面了，如果显示访问失败的话，在网址前面加上www试试。將將，完成啦！</p>
 ]]></content>
       <tags>
         <tag>这可是纯纯的学术</tag>
@@ -229,27 +250,6 @@ vim hexo
 <figure class="highlight"><table><tr><td class="code"><pre><span class="line">hexo new "postName" #新建文章</span><br><span class="line">hexo new page "pageName" #新建页面</span><br><span class="line">hexo generate #生成静态页面至public目录</span><br><span class="line">hexo server #开启预览访问端口（默认端口4000，'ctrl + c'关闭server）</span><br><span class="line">hexo deploy #将.deploy目录部署到GitHub</span><br><span class="line">hexo help  #查看帮助</span><br><span class="line">hexo version  #查看Hexo的版本</span><br></pre></td></tr></table></figure>
 <h4 id="一些基本路径"><a href="#一些基本路径" class="headerlink" title="一些基本路径"></a>一些基本路径</h4><p>文章在 source/_posts，编辑器可以用 Sublime，支持 markdown 语法。如果想修改头像可以直接在主题的 _config.yml 文件里面修改，友情链接，之类的都在这里，修改名字在 public/index.html 里修改，开始打理你的博客吧，有什么问题或者建议，都可以提出来，我会继续完善的。<br>Markdown语法参考链接: <a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="noopener">作业部落</a></p>
 <h4 id="Q-amp-A"><a href="#Q-amp-A" class="headerlink" title="Q&amp;A"></a>Q&amp;A</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">问：如何让文章想只显示一部分和一个 阅读全文 的按钮？ </span><br><span class="line">答：在文章中加一个 &lt;!--more--&gt; ， &lt;!--more--&gt; 后面的内容就不会显示出来了。</span><br><span class="line">---</span><br><span class="line">问：本地部署成功了，也能预览效果，但使用 username.github.io 访问，出现 <span class="number">404</span> . </span><br><span class="line">答：首先确认 hexo d 命令执行是否报错，如果没有报错，再查看一下你的 github 的 username.github.io 仓库，你的博客是否已经成功提交了，你的 github 邮箱也要通过验证才行。</span><br></pre></td></tr></table></figure>
-]]></content>
-      <tags>
-        <tag>这可是纯纯的学术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>github绑定域名</title>
-    <url>/2017/01/12/github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
-    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1704213&auto=0&height=66"></iframe>
-### 独立域名
-如果没有自己独立的域名的话，我们的博客都是使用github分配的二级域名likelly.github.io来访问的， 所以要是自己设置个域名，是多么cool的事！
-那。。。就去购买自己喜欢的域名然后绑定吧！
-<a id="more"></a>
-#### 购买域名
-去卖域名的网站去买一个域名，我是在万网买的域名，如图所示：
-![](github绑定域名/01.png)
-找到自己喜欢的域名，购买就好了,likelly.xyz就是被我注册啦啦啦。
-
-<h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>有了自己的域名之后，likelly.github.io替换成likelly.xyz，只要设置下解析即可，进入万网的云解析页面，添加如下解析：<br><img src="github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/02.png" alt=""><br>说明：<strong>192.30.252.154</strong>和<strong>192.30.252.153</strong>是github服务器对应的ip地址，这步一定要设置，否则访问不了。</p>
-<h4 id="添加CNAME"><a href="#添加CNAME" class="headerlink" title="添加CNAME"></a>添加CNAME</h4><p>然后回到博客项目根目录，在根目录<strong>source/</strong>下新建一个名为CNAME（注意：一定要大写）的文件，里面的内容写入<a href="http://www.likelly.xyz即可。" target="_blank" rel="noopener">www.likelly.xyz即可。</a></p>
-<p>然后在浏览器输入likelly.xyz，即可代替之前的github.io的域名，访问到自己的博客页面了，如果显示访问失败的话，在网址前面加上www试试。將將，完成啦！</p>
 ]]></content>
       <tags>
         <tag>这可是纯纯的学术</tag>
