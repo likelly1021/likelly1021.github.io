@@ -61,6 +61,21 @@
       </tags>
   </entry>
   <entry>
+    <title>卑鄙的我</title>
+    <url>/2016/04/17/160417/</url>
+    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=5397309&auto=0&height=66"></iframe>
+
+<p>最喜欢的一支笔<br>被我不小心掉到地上<br>不好用了<br>字迹都分了叉</p>
+<a id="more"></a>
+
+<p>可我仍耿耿于怀他<br>不像之前那样<br>忠诚于我</p>
+<p>殊不知<br>当初是谁先失手<br>才伤了他的芯</p>
+]]></content>
+      <tags>
+        <tag>不介意孤独，比爱你舒服</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>溺水的睫毛</title>
     <url>/2016/01/07/160107/</url>
     <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=27896611&auto=0&height=66"></iframe>
@@ -80,18 +95,20 @@
       </tags>
   </entry>
   <entry>
-    <title>卑鄙的我</title>
-    <url>/2016/04/17/160417/</url>
-    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=5397309&auto=0&height=66"></iframe>
+    <title>Birthday</title>
+    <url>/2020/08/25/200825happybirthday/</url>
+    <content><![CDATA[<p>他们相恋于上世纪末的一个日子里<br>由一只猫做媒</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=482823&auto=0&height=66"></iframe>
 
-<p>最喜欢的一支笔<br>被我不小心掉到地上<br>不好用了<br>字迹都分了叉</p>
 <a id="more"></a>
-
-<p>可我仍耿耿于怀他<br>不像之前那样<br>忠诚于我</p>
-<p>殊不知<br>当初是谁先失手<br>才伤了他的芯</p>
+<p>餐厅里的老银具<br>要传给她可爱的孙女<br>一群老友围着橘黄色的炉火<br>谈论着他的尖头皮鞋<br>他炫耀着她做的甜品<br>他亲吻着她的脸颊<br>他说<br>Happy birthday my life</p>
+<p>*（written by 李四）</p>
 ]]></content>
+      <categories>
+        <category>写作</category>
+      </categories>
       <tags>
-        <tag>不介意孤独，比爱你舒服</tag>
+        <tag>三杯两盏扯淡酒</tag>
       </tags>
   </entry>
   <entry>
@@ -105,20 +122,6 @@
 ]]></content>
       <tags>
         <tag>最是缘浅情薄</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Birthday</title>
-    <url>/2020/08/25/200825happybirthday/</url>
-    <content><![CDATA[<p>他们相恋于上世纪末的一个日子里<br>由一只猫做媒</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=482823&auto=0&height=66"></iframe>
-
-<a id="more"></a>
-<p>餐厅里的老银具<br>要传给她可爱的孙女<br>一群老友围着橘黄色的炉火<br>谈论着他的尖头皮鞋<br>他炫耀着她做的甜品<br>他亲吻着她的脸颊<br>他说<br>Happy birthday my life</p>
-<p>*（written by 李四）</p>
-]]></content>
-      <tags>
-        <tag>三杯两盏扯淡酒</tag>
       </tags>
   </entry>
   <entry>
@@ -143,8 +146,8 @@
     <content><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>需要先了解一下什么是LaTex，latex吧等一些社区，可以获取一些简单的关于LaTex的消息，另外这里还有一份LaTex简单的入门，可以先大概看看第一章基本知识了解一下<a href="https://zhidao.baidu.com/share/14ad2e201ac1c92a8d3c5fb92b2d661e.html" target="_blank" rel="noopener">一份不太简短的LATEX介绍</a>；</p>
 <a id="more"></a> 
 <h2 id="其次"><a href="#其次" class="headerlink" title="其次"></a>其次</h2><p>LaTex有许多发行版，包括CTex、TexLive等，这里推荐开源且更加全面的TeXLive <a href="http://www.latexstudio.net/archives/6544" target="_blank" rel="noopener">(TeXLive 2016发行版的下载)</a> ，网页中的链接都可以下载，不过推荐通过ctan的镜像站由迅雷下载（如下图），整个套装接近3G，校内网好时有几M的速度下载也比较快； 安装过程可以参考：<a href="https://zhuanlan.zhihu.com/p/19779481?columnSlug=LaTeX" target="_blank" rel="noopener">TeX Live 2014安装引导流程</a>以及<a href="http://www.linuxidc.com/Linux/2016-08/133913.htm" target="_blank" rel="noopener">Linux 系统下原版 TeX Live 2016 的安装与配置</a></p>
-<p><img src="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/01.png" alt=""></p>
-<p><img src="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/02.png" alt="">    </p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/01.png" alt=""></p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="LaTex%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%9F%A5%E8%AF%86/02.png" alt="">    </p>
 <h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>TeXLive只是LaTex排版系统的编译部分，LaTex支持多种编辑器来编辑，包括TeXworks、TexStudio、Texmaker等，这里并不推荐与ctex整合的winedit（实为非开源收费软件破解），作为新手，推荐使用<a href="http://www.xm1math.net/texmaker/" target="_blank" rel="noopener">Texmaker</a>，界面友好，直观简单，熟悉之后推荐转为<a href="http://texstudio.sourceforge.net/" target="_blank" rel="noopener">TeXstudio</a> …<br>另外，LaTex也有一些在线编辑器，好处是只要有网就可以编辑，并且同步不会丢失，在线模板也比较多，这里有两个推荐的在线LaTex编辑网站：TeXIDE <a href="https://www.texide.com/" target="_blank" rel="noopener">(中文)</a>、ShareLaTex<a href="https://www.sharelatex.com/" target="_blank" rel="noopener">(英文)</a><br>另附：<br>本文原作者谭校长博客<a href="www.regulus.online">主页</a><br>上一届赵大神学长搭的资源分享站-[哈工大高能物理导航] (<a href="http://hithep.science/" target="_blank" rel="noopener">http://hithep.science/</a>)</p>
 ]]></content>
       <tags>
@@ -182,10 +185,13 @@
 ![](github绑定域名/01.png)
 找到自己喜欢的域名，购买就好了,likelly.xyz就是被我注册啦啦啦。
 
-<h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>有了自己的域名之后，likelly.github.io替换成likelly.xyz，只要设置下解析即可，进入万网的云解析页面，添加如下解析：<br><img src="github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/02.png" alt=""><br>说明：<strong>192.30.252.154</strong>和<strong>192.30.252.153</strong>是github服务器对应的ip地址，这步一定要设置，否则访问不了。</p>
+<h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>有了自己的域名之后，likelly.github.io替换成likelly.xyz，只要设置下解析即可，进入万网的云解析页面，添加如下解析：<br><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/02.png" alt=""><br>说明：<strong>192.30.252.154</strong>和<strong>192.30.252.153</strong>是github服务器对应的ip地址，这步一定要设置，否则访问不了。</p>
 <h4 id="添加CNAME"><a href="#添加CNAME" class="headerlink" title="添加CNAME"></a>添加CNAME</h4><p>然后回到博客项目根目录，在根目录<strong>source/</strong>下新建一个名为CNAME（注意：一定要大写）的文件，里面的内容写入<a href="http://www.likelly.xyz即可。" target="_blank" rel="noopener">www.likelly.xyz即可。</a></p>
 <p>然后在浏览器输入likelly.xyz，即可代替之前的github.io的域名，访问到自己的博客页面了，如果显示访问失败的话，在网址前面加上www试试。將將，完成啦！</p>
 ]]></content>
+      <categories>
+        <category>科研</category>
+      </categories>
       <tags>
         <tag>这可是纯纯的学术</tag>
       </tags>
@@ -290,11 +296,44 @@ vim hexo
       </tags>
   </entry>
   <entry>
+    <title>溅</title>
+    <url>/2020/08/24/jian/</url>
+    <content><![CDATA[<p>有些话 早就该说<br>有些事 早就该挑明<br>sorry 你给不了我安全感<br>我是 骨子里的薄情人</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1303019276&auto=0&height=66"></iframe>
+<a id="more"></a>
+
+<p>梦里又遇见 清澈的水<br>倒映着 熟悉的嘴脸<br>他说 她说<br>河里没有鱼 我们无敌</p>
+<p>梦里又看见 连绵的山<br>我放声呼喊 不停埋怨<br>可惜 没有答案</p>
+<p>you are not the one I used to know<br>我也不是你眼中的那个 emmm<br>放手吧 过往都成云烟<br>世间百态 跟自己相爱</p>
+<p>所有人都说你错了<br>就好像你真的错了<br>孤独的背叛者</p>
+]]></content>
+      <tags>
+        <tag>三杯两盏扯淡酒</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>诗人</title>
+    <url>/2020/08/25/poet/</url>
+    <content><![CDATA[<p>夏末初秋的傍晚<br>太阳被烧的红了脸<br>娇艳又内敛<br>如你我初见<br>觉得你生的无比好看<br>就像灯一盏一盏的亮起来</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=757761&auto=0&height=66"></iframe>
+
+<a id="more"></a>
+
+<p>心里的灯也一盏一盏的亮<br>它们变成光<br>照在你脸上<br>代替了月亮</p>
+<p>今晚没有月亮<br>她在悄悄地躲藏<br>藏起她的娇媚可爱<br>藏在那茂盛的桂花树上</p>
+<p>树上却有个顽皮的孩子<br>他问<br>你在与谁捉迷藏<br>他问<br>桂花糕是不是很甜<br>他问<br>你为什么生的如此好看</p>
+<p>明媚娇艳，出尘如仙<br>（written by 李四）</p>
+]]></content>
+      <tags>
+        <tag>三杯两盏扯淡酒</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>冬夜随感</title>
     <url>/2016/11/26/write1/</url>
     <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=26145721&auto=0&height=66"></iframe>
 
-<p><img src="write1/a.png" alt=""></p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="write1/a.png" alt=""></p>
 <p>多想<br>在冬夜的马路上<br>尽情的高歌一曲</p>
 <script type="text/javascript" src="./star.js" id="mymouse"></script>
 
@@ -313,7 +352,7 @@ vim hexo
   <entry>
     <title>四分之一</title>
     <url>/2016/11/27/write2/</url>
-    <content><![CDATA[<p><img src="write2/02.png" alt=""></p>
+    <content><![CDATA[<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="write2/02.png" alt=""></p>
 <p>没关系的  冷暖自知就行了<br>没必要为了谁而绞尽脑壳<br>曾幻想着 变成超人去改变世界<br>到头来 连照顾好自己都不够格</p>
 <a id="more"></a>
 <p>刘海太长了啦  看不清前面的路<br>拋个硬币 决定下一步向东还是向西<br>没错 我就是找个借口我是个胆小鬼<br>这是活了四分之一个世纪得出的结论</p>
@@ -325,23 +364,6 @@ vim hexo
 ]]></content>
       <tags>
         <tag>长恨人心不如水</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>诗人</title>
-    <url>/2020/08/25/poet/</url>
-    <content><![CDATA[<p>夏末初秋的傍晚<br>太阳被烧的红了脸<br>娇艳又内敛<br>如你我初见<br>觉得你生的无比好看<br>就像灯一盏一盏的亮起来</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=757761&auto=0&height=66"></iframe>
-
-<a id="more"></a>
-
-<p>心里的灯也一盏一盏的亮<br>它们变成光<br>照在你脸上<br>代替了月亮</p>
-<p>今晚没有月亮<br>她在悄悄地躲藏<br>藏起她的娇媚可爱<br>藏在那茂盛的桂花树上</p>
-<p>树上却有个顽皮的孩子<br>他问<br>你在与谁捉迷藏<br>他问<br>桂花糕是不是很甜<br>他问<br>你为什么生的如此好看</p>
-<p>明媚娇艳，出尘如仙<br>（written by 李四）</p>
-]]></content>
-      <tags>
-        <tag>三杯两盏扯淡酒</tag>
       </tags>
   </entry>
   <entry>
@@ -367,16 +389,19 @@ vim hexo
       </tags>
   </entry>
   <entry>
-    <title>溅</title>
-    <url>/2020/08/24/jian/</url>
-    <content><![CDATA[<p>有些话 早就该说<br>有些事 早就该挑明<br>sorry 你给不了我安全感<br>我是 骨子里的薄情人</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1303019276&auto=0&height=66"></iframe>
+    <title>愚蠢的决定</title>
+    <url>/2017/01/12/%E6%84%9A%E8%A0%A2%E7%9A%84%E5%86%B3%E5%AE%9A/</url>
+    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=432509390&auto=0&height=66"></iframe>
+![](愚蠢的决定/01.png)
+我在窗口  放了个屁
+以为这样  就能放手所有的悲喜
 <a id="more"></a>
+于是乎  我若无其事的回到沙发
+尽情享受着夏日里少有的静谧
 
-<p>梦里又遇见 清澈的水<br>倒映着 熟悉的嘴脸<br>他说 她说<br>河里没有鱼 我们无敌</p>
-<p>梦里又看见 连绵的山<br>我放声呼喊 不停埋怨<br>可惜 没有答案</p>
-<p>you are not the one I used to know<br>我也不是你眼中的那个 emmm<br>放手吧 过往都成云烟<br>世间百态 跟自己相爱</p>
-<p>所有人都说你错了<br>就好像你真的错了<br>孤独的背叛者</p>
+<p>但可恶的风  偏偏不让我得逞<br>像是前世的宿敌  终于抓到了我的把柄<br>他轻轻一吹  然后麻利的把所有的仇怨<br>硬生生的灌回了我的口腔和鼻孔</p>
+<p>吼！该死的风，恭喜你偷袭成功<br>我竟被熏得热泪盈眶<br>怀疑肯定还有什么别的成分<br>是优柔寡断的哭泣 还是怅然若失的梦魇？</p>
+<p>我这个坏女人  到底吃了什么<br>才会酿出这么悲惨的结局<br>风在那肆虐的狂笑<br>“你何止坏  你还愚蠢<br>愚蠢到甚至不知<br>究竟是因为吃坏了东西<br>还是因为在窗口放屁的决定”</p>
 ]]></content>
       <tags>
         <tag>三杯两盏扯淡酒</tag>
@@ -396,25 +421,6 @@ vim hexo
 ]]></content>
       <tags>
         <tag>情愿一尾鱼，消失寂寞海</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>愚蠢的决定</title>
-    <url>/2017/01/12/%E6%84%9A%E8%A0%A2%E7%9A%84%E5%86%B3%E5%AE%9A/</url>
-    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=432509390&auto=0&height=66"></iframe>
-![](愚蠢的决定/01.png)
-我在窗口  放了个屁
-以为这样  就能放手所有的悲喜
-<a id="more"></a>
-于是乎  我若无其事的回到沙发
-尽情享受着夏日里少有的静谧
-
-<p>但可恶的风  偏偏不让我得逞<br>像是前世的宿敌  终于抓到了我的把柄<br>他轻轻一吹  然后麻利的把所有的仇怨<br>硬生生的灌回了我的口腔和鼻孔</p>
-<p>吼！该死的风，恭喜你偷袭成功<br>我竟被熏得热泪盈眶<br>怀疑肯定还有什么别的成分<br>是优柔寡断的哭泣 还是怅然若失的梦魇？</p>
-<p>我这个坏女人  到底吃了什么<br>才会酿出这么悲惨的结局<br>风在那肆虐的狂笑<br>“你何止坏  你还愚蠢<br>愚蠢到甚至不知<br>究竟是因为吃坏了东西<br>还是因为在窗口放屁的决定”</p>
-]]></content>
-      <tags>
-        <tag>三杯两盏扯淡酒</tag>
       </tags>
   </entry>
   <entry>
