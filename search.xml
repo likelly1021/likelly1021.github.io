@@ -26,21 +26,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如果每个青春都想诗人故事里安常处顺（徐橘子）</title>
-    <url>/2015/12/10/1210/</url>
-    <content><![CDATA[<p><a href="http://qiniuuwmp3.changba.com/627808322.mp3" target="_blank" rel="noopener">http://qiniuuwmp3.changba.com/627808322.mp3</a></p>
-<p>我又遇见你 坐上清晨回家的列车<br>提着丰收的悲伤和落魄的生活</p>
-<a id="more"></a>
-
-<p>我又遇见你 手捧孤单在大雪的夜晚<br>转身端起明天的酒杯 步履蹒跚</p>
-<p>我有遇见你 在郑州种一棵太阳<br>带着炙热的倔强 年少疯狂<br>我又遇见你 在火焰中独自徘徊<br>烧红了双眼 病入膏肓</p>
-<p>如果明天的生活还是这样平淡无常<br>我会用双手撕裂人心向背的谎言<br>如果每一个青春都像诗人故事里安常处顺<br>我宁肯抛弃所有 浪迹于生</p>
-]]></content>
-      <tags>
-        <tag>长恨人心不如水</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于老爸</title>
     <url>/2016/11/30/1130/</url>
     <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=531233&auto=0&height=66"></iframe>
@@ -58,6 +43,21 @@
 ]]></content>
       <tags>
         <tag>往事不堪回首月明中</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如果每个青春都想诗人故事里安常处顺（徐橘子）</title>
+    <url>/2015/12/10/1210/</url>
+    <content><![CDATA[<p><a href="http://qiniuuwmp3.changba.com/627808322.mp3" target="_blank" rel="noopener">http://qiniuuwmp3.changba.com/627808322.mp3</a></p>
+<p>我又遇见你 坐上清晨回家的列车<br>提着丰收的悲伤和落魄的生活</p>
+<a id="more"></a>
+
+<p>我又遇见你 手捧孤单在大雪的夜晚<br>转身端起明天的酒杯 步履蹒跚</p>
+<p>我有遇见你 在郑州种一棵太阳<br>带着炙热的倔强 年少疯狂<br>我又遇见你 在火焰中独自徘徊<br>烧红了双眼 病入膏肓</p>
+<p>如果明天的生活还是这样平淡无常<br>我会用双手撕裂人心向背的谎言<br>如果每一个青春都像诗人故事里安常处顺<br>我宁肯抛弃所有 浪迹于生</p>
+]]></content>
+      <tags>
+        <tag>长恨人心不如水</tag>
       </tags>
   </entry>
   <entry>
@@ -156,6 +156,27 @@
       </tags>
   </entry>
   <entry>
+    <title>github绑定域名</title>
+    <url>/2017/01/12/github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
+    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1704213&auto=0&height=66"></iframe>
+### 独立域名
+如果没有自己独立的域名的话，我们的博客都是使用github分配的二级域名likelly.github.io来访问的， 所以要是自己设置个域名，是多么cool的事！
+那。。。就去购买自己喜欢的域名然后绑定吧！
+<a id="more"></a>
+#### 购买域名
+去卖域名的网站去买一个域名，我是在万网买的域名，如图所示：
+![](github绑定域名/01.png)
+找到自己喜欢的域名，购买就好了,likelly.xyz就是被我注册啦啦啦。
+
+<h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>有了自己的域名之后，likelly.github.io替换成likelly.xyz，只要设置下解析即可，进入万网的云解析页面，添加如下解析：<br><img src="github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/02.png" alt=""><br>说明：<strong>192.30.252.154</strong>和<strong>192.30.252.153</strong>是github服务器对应的ip地址，这步一定要设置，否则访问不了。</p>
+<h4 id="添加CNAME"><a href="#添加CNAME" class="headerlink" title="添加CNAME"></a>添加CNAME</h4><p>然后回到博客项目根目录，在根目录<strong>source/</strong>下新建一个名为CNAME（注意：一定要大写）的文件，里面的内容写入<a href="http://www.likelly.xyz即可。" target="_blank" rel="noopener">www.likelly.xyz即可。</a></p>
+<p>然后在浏览器输入likelly.xyz，即可代替之前的github.io的域名，访问到自己的博客页面了，如果显示访问失败的话，在网址前面加上www试试。將將，完成啦！</p>
+]]></content>
+      <tags>
+        <tag>这可是纯纯的学术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo搭建个人博客</title>
     <url>/2017/01/12/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>前一阵子，在实验室师兄的帮助下，自己搭建了一个博客，其中有好几篇文章在我看来帮助甚大，在此引用记录一下。<br>请注意，这篇文章介绍了 Ubuntu 和 windows 系统哦,并且纯属借鉴。<br>由于文章略长，照例安利一首歌吧～</p>
@@ -235,43 +256,6 @@ vim hexo
       </tags>
   </entry>
   <entry>
-    <title>github绑定域名</title>
-    <url>/2017/01/12/github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
-    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1704213&auto=0&height=66"></iframe>
-### 独立域名
-如果没有自己独立的域名的话，我们的博客都是使用github分配的二级域名likelly.github.io来访问的， 所以要是自己设置个域名，是多么cool的事！
-那。。。就去购买自己喜欢的域名然后绑定吧！
-<a id="more"></a>
-#### 购买域名
-去卖域名的网站去买一个域名，我是在万网买的域名，如图所示：
-![](github绑定域名/01.png)
-找到自己喜欢的域名，购买就好了,likelly.xyz就是被我注册啦啦啦。
-
-<h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>有了自己的域名之后，likelly.github.io替换成likelly.xyz，只要设置下解析即可，进入万网的云解析页面，添加如下解析：<br><img src="github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/02.png" alt=""><br>说明：<strong>192.30.252.154</strong>和<strong>192.30.252.153</strong>是github服务器对应的ip地址，这步一定要设置，否则访问不了。</p>
-<h4 id="添加CNAME"><a href="#添加CNAME" class="headerlink" title="添加CNAME"></a>添加CNAME</h4><p>然后回到博客项目根目录，在根目录<strong>source/</strong>下新建一个名为CNAME（注意：一定要大写）的文件，里面的内容写入<a href="http://www.likelly.xyz即可。" target="_blank" rel="noopener">www.likelly.xyz即可。</a></p>
-<p>然后在浏览器输入likelly.xyz，即可代替之前的github.io的域名，访问到自己的博客页面了，如果显示访问失败的话，在网址前面加上www试试。將將，完成啦！</p>
-]]></content>
-      <tags>
-        <tag>这可是纯纯的学术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>溅</title>
-    <url>/2020/08/24/jian/</url>
-    <content><![CDATA[<p>有些话 早就该说<br>有些事 早就该挑明<br>sorry 你给不了我安全感<br>我是 骨子里的薄情人</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1303019276&auto=0&height=66"></iframe>
-<a id="more"></a>
-
-<p>梦里又遇见 清澈的水<br>倒映着 熟悉的嘴脸<br>他说 她说<br>河里没有鱼 我们无敌</p>
-<p>梦里又看见 连绵的山<br>我放声呼喊 不停埋怨<br>可惜 没有答案</p>
-<p>you are not the one I used to know<br>我也不是你眼中的那个 emmm<br>放手吧 过往都成云烟<br>世间百态 跟自己相爱</p>
-<p>所有人都说你错了<br>就好像你真的错了<br>孤独的背叛者</p>
-]]></content>
-      <tags>
-        <tag>三杯两盏扯淡酒</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>吃蛋炒饭不要葱花</title>
     <url>/2016/11/28/poem3/</url>
     <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=41657868&auto=0&height=66"></iframe>
@@ -286,6 +270,22 @@ vim hexo
 <p>想到处走走，说过，要歌唱的<br>可是<br>爸有白头发<br>妈不笑也有皱纹</p>
 <p>我是个蘑菇。<br>可是，淋雨没长过个儿<br>那就是一只鹅，我想，曲项向天歌<br>被星星砸到，刚巧穿着内裤，变超人再奋斗<br>思维好奇怪的我，做的很少，想的太多</p>
 <p>好吧，再见<br>不要葱花的蛋炒饭</p>
+]]></content>
+      <tags>
+        <tag>三杯两盏扯淡酒</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>溅</title>
+    <url>/2020/08/24/jian/</url>
+    <content><![CDATA[<p>有些话 早就该说<br>有些事 早就该挑明<br>sorry 你给不了我安全感<br>我是 骨子里的薄情人</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1303019276&auto=0&height=66"></iframe>
+<a id="more"></a>
+
+<p>梦里又遇见 清澈的水<br>倒映着 熟悉的嘴脸<br>他说 她说<br>河里没有鱼 我们无敌</p>
+<p>梦里又看见 连绵的山<br>我放声呼喊 不停埋怨<br>可惜 没有答案</p>
+<p>you are not the one I used to know<br>我也不是你眼中的那个 emmm<br>放手吧 过往都成云烟<br>世间百态 跟自己相爱</p>
+<p>所有人都说你错了<br>就好像你真的错了<br>孤独的背叛者</p>
 ]]></content>
       <tags>
         <tag>三杯两盏扯淡酒</tag>
@@ -310,23 +310,6 @@ vim hexo
 ]]></content>
       <tags>
         <tag>奈何情生君未知</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>四分之一</title>
-    <url>/2016/11/27/write2/</url>
-    <content><![CDATA[<p><img src="write2/02.png" alt=""></p>
-<p>没关系的  冷暖自知就行了<br>没必要为了谁而绞尽脑壳<br>曾幻想着 变成超人去改变世界<br>到头来 连照顾好自己都不够格</p>
-<a id="more"></a>
-<p>刘海太长了啦  看不清前面的路<br>拋个硬币 决定下一步向东还是向西<br>没错 我就是找个借口我是个胆小鬼<br>这是活了四分之一个世纪得出的结论</p>
-<p>我们都是被宠坏了的玩偶<br>灵魂早已出鞘 孤独而自由<br>好吧 是该做个决定的时候了<br>蛋炒饭与热干面二者不可兼得</p>
-<p>所以运气总该遵循个守恒定律吧<br>要不然心里总会有些不平衡<br>想被爱的话总当然大声说出来<br>藏在心里无论如何都不会被知道的</p>
-<p>就这样黔驴技穷是不是不太好<br>可拼命努力而到达的  就会是乐园吗<br>时光是个苍老而无助的大妈<br>我们要爱护她</p>
-<p>阳光透过窗子折射出温暖的弧度<br>街角的落叶华丽的跳着死亡之舞<br>汽车疾驰而过 她一次又一次的被拯救<br>直到粉身碎骨</p>
-<p>而我<br>又准备在下一个四分之一<br>开始<br>踱步</p>
-]]></content>
-      <tags>
-        <tag>长恨人心不如水</tag>
       </tags>
   </entry>
   <entry>
@@ -366,6 +349,23 @@ vim hexo
 ]]></content>
       <tags>
         <tag>世间唯有烟，热吻我十年</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>四分之一</title>
+    <url>/2016/11/27/write2/</url>
+    <content><![CDATA[<p><img src="write2/02.png" alt=""></p>
+<p>没关系的  冷暖自知就行了<br>没必要为了谁而绞尽脑壳<br>曾幻想着 变成超人去改变世界<br>到头来 连照顾好自己都不够格</p>
+<a id="more"></a>
+<p>刘海太长了啦  看不清前面的路<br>拋个硬币 决定下一步向东还是向西<br>没错 我就是找个借口我是个胆小鬼<br>这是活了四分之一个世纪得出的结论</p>
+<p>我们都是被宠坏了的玩偶<br>灵魂早已出鞘 孤独而自由<br>好吧 是该做个决定的时候了<br>蛋炒饭与热干面二者不可兼得</p>
+<p>所以运气总该遵循个守恒定律吧<br>要不然心里总会有些不平衡<br>想被爱的话总当然大声说出来<br>藏在心里无论如何都不会被知道的</p>
+<p>就这样黔驴技穷是不是不太好<br>可拼命努力而到达的  就会是乐园吗<br>时光是个苍老而无助的大妈<br>我们要爱护她</p>
+<p>阳光透过窗子折射出温暖的弧度<br>街角的落叶华丽的跳着死亡之舞<br>汽车疾驰而过 她一次又一次的被拯救<br>直到粉身碎骨</p>
+<p>而我<br>又准备在下一个四分之一<br>开始<br>踱步</p>
+]]></content>
+      <tags>
+        <tag>长恨人心不如水</tag>
       </tags>
   </entry>
   <entry>
