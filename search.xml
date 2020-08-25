@@ -312,23 +312,6 @@ vim hexo
       </tags>
   </entry>
   <entry>
-    <title>诗人</title>
-    <url>/2020/08/25/poet/</url>
-    <content><![CDATA[<p>夏末初秋的傍晚<br>太阳被烧的红了脸<br>娇艳又内敛<br>如你我初见<br>觉得你生的无比好看<br>就像灯一盏一盏的亮起来</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=757761&auto=0&height=66"></iframe>
-
-<a id="more"></a>
-
-<p>心里的灯也一盏一盏的亮<br>它们变成光<br>照在你脸上<br>代替了月亮</p>
-<p>今晚没有月亮<br>她在悄悄地躲藏<br>藏起她的娇媚可爱<br>藏在那茂盛的桂花树上</p>
-<p>树上却有个顽皮的孩子<br>他问<br>你在与谁捉迷藏<br>他问<br>桂花糕是不是很甜<br>他问<br>你为什么生的如此好看</p>
-<p>明媚娇艳，出尘如仙<br>（written by 李四）</p>
-]]></content>
-      <tags>
-        <tag>三杯两盏扯淡酒</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>冬夜随感</title>
     <url>/2016/11/26/write1/</url>
     <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=26145721&auto=0&height=66"></iframe>
@@ -460,6 +443,41 @@ vim hexo
 ]]></content>
       <tags>
         <tag>雨送黄昏情脉脉，留得残荷听雨声</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>诗人</title>
+    <url>/2020/08/25/20200826poet/</url>
+    <content><![CDATA[<p>做个诗人<br>低头吟唱虚伪的旁白<br>写下死后流传的诗篇</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22489132&auto=0&height=66"></iframe>
+
+<p>开一间小店<br>错落有致<br>简单明亮温暖有光<br>和着诗下酒<br>对门口的大黄耍流氓<br>形形色色来来往往<br>留下点什么<br>动人的气泡<br>与俗不可医的故事<br>写点什么<br>就写<br>明天老板开心酒水半价</p>
+]]></content>
+      <categories>
+        <category>写作</category>
+      </categories>
+      <tags>
+        <tag>要么庸俗，要么孤独</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>他她</title>
+    <url>/2020/08/25/20200825heshe/</url>
+    <content><![CDATA[<p>夏末初秋的傍晚<br>太阳被烧的红了脸<br>娇艳又内敛<br>如你我初见<br>觉得你生的无比好看<br>就像灯一盏一盏的亮起来</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=757761&auto=0&height=66"></iframe>
+
+<a id="more"></a>
+
+<p>心里的灯也一盏一盏的亮<br>它们变成光<br>照在你脸上<br>代替了月亮</p>
+<p>今晚没有月亮<br>她在悄悄地躲藏<br>藏起她的娇媚可爱<br>藏在那茂盛的桂花树上</p>
+<p>树上却有个顽皮的孩子<br>他问<br>你在与谁捉迷藏<br>他问<br>桂花糕是不是很甜<br>他问<br>你为什么生的如此好看</p>
+<p>明媚娇艳，出尘如仙<br>（written by 李四）</p>
+]]></content>
+      <categories>
+        <category>写作</category>
+      </categories>
+      <tags>
+        <tag>三杯两盏扯淡酒</tag>
       </tags>
   </entry>
 </search>
